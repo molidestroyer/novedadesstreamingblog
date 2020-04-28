@@ -2,7 +2,6 @@
 id: 1
 published: true
 title: Estreno de blog
-date: {}
 author: estrenosadmin
 layout: post
 permalink: /estrenoblog/
