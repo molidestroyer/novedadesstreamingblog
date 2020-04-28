@@ -1,23 +1,25 @@
 # Setup
 title:               Novedades streaming blog
-tagline:             'Tu blog de los lanzamientos y noticias de plataformas de streaming'
+tagline:             'Tus noticias de plataformas de streaming'
 description:         'Lectura obligada para estar al día con los lanzamientos de peliculas,series y documentales de Netflix en España.'
+titlesidebar:        'Lanzamientos streaming'
 url:                 https://blog.novedades-streaming.com/
-baseurl:             ''
+baseurl:             /
 paginate:            5
 permalink:           pretty
+locale:              es_es
 
 # About/contact
 author:
   name:              Miguel Molina
-  url:               https://github.com/molidestroyer/novedadesstreamingblog
-  email:             chollolocura@gmail.com
+  profile_github:    https://github.com/molidestroyer/novedadesstreamingblog
+  email:             miguel.molina.montilla@gmail.com
 
 # Gems
 plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
+version:             1.0.0
 google_analytics_id: #UA-XXXX-Y
 
