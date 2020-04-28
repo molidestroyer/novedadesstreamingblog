@@ -14,6 +14,6 @@ La película Tyler Rake (Extracción) se mantiene a día de hoy con un 63% de me
 
 Mira a **Chris Hemsworth** meterse en una gran pelea en esta escena de la acción-thriller de acción producida por los hermanos Russo (Conocidos por Avengers Endgame) Extraction, debutó en Netflix el 24 de abril de 2020. 
 
-{% include youtube.html id=https://youtu.be/p61CKUI_-C4 %}
+{% include youtube.html id=p61CKUI_-C4 %}
 
 ¿La has visto esta semana? ¿Que te ha parecido?
