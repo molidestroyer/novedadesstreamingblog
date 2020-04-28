@@ -8,7 +8,7 @@ permalink: /estrenoblog/
 categories:
   - Welcome
 ---
-![Las mejores novedades de streaming]({{site.baseurl}}/_posts/Novedades streaming (3).png)
+![Las mejores novedades de streaming]({{site.baseurl}}/_posts/Novedades_streaming.png)
 
 Hola a todos,
 
