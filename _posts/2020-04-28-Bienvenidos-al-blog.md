@@ -7,6 +7,11 @@ layout: post
 permalink: /estrenoblog/
 categories:
   - Welcome
+subtitle: >-
+  Finalmente me he decidido a crear un blog donde hablar de las plataformas de
+  streaming que más me apasionan.
+header-img: >-
+  https://chollolocurastorage.blob.core.windows.net/chollolocura/NovedadesStreaming/NovedadesBlog.png
 ---
 ![Las mejores novedades de streaming](https://chollolocurastorage.blob.core.windows.net/chollolocura/NovedadesStreaming/NovedadesBlog.png)
 
