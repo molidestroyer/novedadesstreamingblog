@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 id: 1
 author: estrenosadmin
 layout: post
@@ -16,4 +16,4 @@ Mira a **Chris Hemsworth** meterse en una gran pelea en esta escena de la acció
 
 [https://youtu.be/p61CKUI_-C4](https://youtu.be/p61CKUI_-C4)
 
-¿La has visto esta semana? ¿Que te ha parecido? 
+¿La has visto esta semana? ¿Que te ha parecido?
