@@ -4,7 +4,6 @@ tagline:             'Tus noticias de plataformas de streaming'
 description:         'Lectura obligada para estar al día con los lanzamientos de peliculas,series y documentales de Netflix en España.'
 titlesidebar:        'Lanzamientos streaming'
 url:                 https://blog.novedades-streaming.com/
-baseurl:             /
 paginate:            5
 permalink:           pretty
 locale:              es_es
