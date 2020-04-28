@@ -8,7 +8,7 @@ permalink: /estrenoblog/
 categories:
   - Welcome
 ---
-![Las mejores novedades de streaming]({{site.baseurl}}/_posts/Novedades_streaming.png)
+![Las mejores novedades de streaming](https://chollolocurastorage.blob.core.windows.net/chollolocura/NovedadesStreaming/NovedadesBlog.png)
 
 Hola a todos,
 
