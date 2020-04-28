@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 id: 1
 author: estrenosadmin
 layout: post
@@ -26,4 +26,3 @@ Por lo que a partir de ese día la saga Skywalker completa en un mismo lugar. Di
 {% include youtube.html id='v=ceGnNj2rRjg'  %}
 
 ## Disponible el 4 de mayo
-
