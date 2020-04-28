@@ -1,10 +1,6 @@
 ---
-layout: post
-author: jill
-published: true
----
----
 id: 1
+published: true
 title: Estreno de blog
 date: 2016-02-27T12:52:33+01:00
 author: estrenosadmin
