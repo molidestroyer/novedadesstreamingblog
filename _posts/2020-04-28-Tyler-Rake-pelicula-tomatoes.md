@@ -9,6 +9,7 @@ subtitle: >-
   La película Tyler Rake (Extracción) se mantiene a día de hoy con un 63% de
   media en en el tomatómetro, con 107 comentarios.
 header-img: 'https://telegra.ph/file/ecaf21feccfd4f0c7c2a0.png'
+title: Extracción se hace con un 63% en Rotten Tomatoes
 ---
 La película Tyler Rake (Extracción) se mantiene a día de hoy con un 63% de media en en el tomatómetro, con 107 comentarios. 
 
