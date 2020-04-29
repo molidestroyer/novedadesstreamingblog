@@ -8,6 +8,8 @@ categories:
   - Netflix
 subtitle: '¡Otra vez!, Nueva serie de Netflix que cae tras su primera temporada.'
 header-img: 'https://i.ytimg.com/vi/nuP_oYdssVs/maxresdefault.jpg'
+title: >-
+  ¡Otra vez!, Nueva serie de Netflix que cae tras su primera temporada.
 ---
 ![](https://i.ytimg.com/vi/nuP_oYdssVs/maxresdefault.jpg)
 
