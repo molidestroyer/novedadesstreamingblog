@@ -5,8 +5,6 @@ author: estrenosadmin
 layout: post
 categories:
   - DisneyPlus
-  - StarWars
-  - SkyWalker
 subtitle: >-
   La Resistencia prepara el asalto final contra la Primera Orden y Rey se
   enfrentará a su destino. El último capítulo de la saga Skywalker llega a
