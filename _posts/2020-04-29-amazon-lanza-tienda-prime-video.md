@@ -4,10 +4,10 @@ author: estrenosadmin
 layout: post
 categories:
   - PrimeVideo
-subtitle: 'Amazon Prime Video lanza su servicio de alquiler y venta'
+subtitle: 'Amazon Prime Video lanza su servicio de alquiler y venta de películas recién estrenadas'
 header-img: 'https://chollolocurastorage.blob.core.windows.net/chollolocura/NovedadesStreaming/AmazonTienda2.PNG'
 title: >-
-  Amazon Prime Video lanza su servicio de alquiler y venta
+  Amazon Prime Video lanza su servicio de alquiler y venta de películas recién estrenadas
 ---
 ![Amazon Prime Video lanza su servicio de alquiler y venta de ...](https://chollolocurastorage.blob.core.windows.net/chollolocura/NovedadesStreaming/AmazonTienda2.PNG)
 
