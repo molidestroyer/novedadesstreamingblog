@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 id: 1
 author: estrenosadmin
 layout: post
