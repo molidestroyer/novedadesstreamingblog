@@ -15,7 +15,7 @@ title: ¡Jerry Seinfeld vuelve con su primer especial en 22 años!
 
 Jerry Seinfeld: 23 horas para matar: ¡su primer especial original en 22 años! — llega el **5 de mayo a Netflix**
 
-
+<!--break-->
 
 Aquí os traemos el trailer para que podáis ir abriendo boca.
 
