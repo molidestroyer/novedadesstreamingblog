@@ -7,7 +7,7 @@ categories:
 subtitle: >-
   Imprescindibles Disney+: SPARKSHORTS - O, como los animadores de Pixar llegan al alma en escasos minutos
 header-img: 'https://chollolocurastorage.blob.core.windows.net/chollolocura/NovedadesStreaming/Sparkshorts.webp'
-title: Imprescindibles Disney+: SPARKSHORTS - O, como los animadores de Pixar llegan al alma en escasos minutos
+title: Imprescindibles Disney+: SPARKSHORTS Como los animadores de Pixar nos llegan al alma en escasos minutos
 ---
 ![img](https://chollolocurastorage.blob.core.windows.net/chollolocura/NovedadesStreaming/Sparkshorts.webp)
 
