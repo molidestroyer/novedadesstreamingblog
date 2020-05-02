@@ -9,7 +9,7 @@ subtitle: >-
 header-img: 'https://telegra.ph/file/d52a7efda8e6bf5d62d68.png'
 title: Todo lo nuevo que llega a HBO España en mayo de 2020
 ---
-![img](https://telegra.ph/file/cde3ca26e89134b679366.png)
+![img](https://telegra.ph/file/d52a7efda8e6bf5d62d68.png)
 
 
 
