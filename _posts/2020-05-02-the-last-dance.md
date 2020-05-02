@@ -7,7 +7,7 @@ categories:
 subtitle: >-
   'The Last Dance supera a Tiger King como la serie documental más popular de 2020'
 header-img: 'https://telegra.ph/file/db1fd547867bb4964db59.png'
-title: 'The Last Dance' supera a Tiger King como la serie documental más popular de 2020' 
+title: 'The Last Dance supera a Tiger King como la serie documental más popular de 2020' 
 ---
 ![img](https://telegra.ph/file/db1fd547867bb4964db59.png)
 
