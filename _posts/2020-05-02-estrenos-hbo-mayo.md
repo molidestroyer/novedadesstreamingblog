@@ -29,9 +29,7 @@ Desde el equipo de novedades streaming recomendamos encarecidamente la serie de 
 
 HBO ha escogido el mejor momento para poner a disposición de sus suscriptores la primera temporada de la serie. Los ocho episodios que nos presentan a este particular hombre con ambiciones de grandeza que, tras ser alcalde de Logroño y diputado nacional por La Rioja, llega a ministro de Agricultura.
 
-```
-Diego San José (Ocho apellidos vascos) y Juan Cavestany (Vergüenza) idearon a un ministro de Agricultura que, de pronto, tiene aspiraciones en su partido y quiere iniciar la carrera a la Presidencia del Gobierno. Cámara, como el político más miserable, embustero, mediocre e indigno, será la peor pesadilla de su equipo en el partido. Traerá de cabeza a María Pujalte (Los misterios de Laura) y Adam Jezierski (Física o química), en lo profesional. Pero lo cierto es que tampoco tendrá mucho atino en su relación con su mujer, Nuria Mencía (La princesa de Éboli), y su hija, Esty Quesada (Looser).
-```
+> Diego San José (Ocho apellidos vascos) y Juan Cavestany (Vergüenza) idearon a un ministro de Agricultura que, de pronto, tiene aspiraciones en su partido y quiere iniciar la carrera a la Presidencia del Gobierno. Cámara, como el político más miserable, embustero, mediocre e indigno, será la peor pesadilla de su equipo en el partido. Traerá de cabeza a María Pujalte (Los misterios de Laura) y Adam Jezierski (Física o química), en lo profesional. Pero lo cierto es que tampoco tendrá mucho atino en su relación con su mujer, Nuria Mencía (La princesa de Éboli), y su hija, Esty Quesada (Looser).
 
 
 
