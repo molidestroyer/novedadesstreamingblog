@@ -18,12 +18,11 @@ $.get('{{ include.feedUrl }}', function (data) {
         var title = el.find("title").text();
 		
 		var regexp= new RegExp("https:\/\/bit.ly\/([^\s]+)");
-		alert(title.match(regexp));
 				
         var link = el.find("link").text();
         var image = el.find("enclosure").attr('url');
         var description = el.find("description").text();
-        $('#instafeed').append('<a href="'+encodeURI(link)+'" target="_blank" title="'+title.replace('Caption: ','')+'"><img src="'+encodeURI(image)+'" alt="'+title.replace('Caption: ','')+'" /></a>');
+        $('#instafeed').append('<a href="'+encodeURI(title.match(regexp))+'" target="_blank" title="'+title.replace('Caption: ','')+'"><img src="'+encodeURI(image)+'" alt="'+title.replace('Caption: ','')+'" /></a>');
     });
 });
 </script>
