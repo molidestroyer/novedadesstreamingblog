@@ -7,7 +7,7 @@ categories:
 subtitle: >-
   '¡Primera imagen de la nueva película de Dwayne Johnson y Ryan Reynolds!'
 header-img: 'https://telegra.ph/file/d2c5dd402c8196921ad87.png'
-title: '¡Primera imagen de la nueva película de Dwayne Johnson y Ryan Reynolds!' ![img](https://telegra.ph/file/db1fd547867bb4964db59.png)![img](https://telegra.ph/file/d2c5dd402c8196921ad87.png
+title: '¡Primera imagen de la nueva película de Dwayne Johnson y Ryan Reynolds!'
 ---
 
 
