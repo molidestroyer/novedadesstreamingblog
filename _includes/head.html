@@ -42,11 +42,10 @@
   <link rel="shortcut icon" href="{{ '/public/favicon.ico' | absolute_url }}">
 
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/atom.xml' | absolute_url }}">
-	<link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
 
-	<meta property="og:type" content="article">
-	<meta property="og:title" content="{{ page.title }}">
-	<meta name="twitter:title" content="{{ page.title }}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{ page.title }}">
+<meta name="twitter:title" content="{{ page.title }}">
 	{% if page.header-img %}
 		<meta property="og:image" content="{{ page.header-img }}" />
 		<meta name="twitter:image" content="{{ page.header-img }}">
