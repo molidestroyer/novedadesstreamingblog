@@ -1,10 +1,35 @@
 <!-- Look the author details up from the site config. -->
 {% assign author = site.data.authors[page.author] %}
 
+<style>
+.circular-img
+				{
+					display:inline-block;
+					padding:10px;
+					border-radius:50%;
+					background:black;
+					height:24px;
+					width:24px;
+				}
+.circular-img img
+{
+					display:inline-block;
+					margin-top:1px;
+					margin-left:2px
+}
+@media only screen and (max-width: 640px) {
+.circular-image{
+        border-radius:50%;
+}
+</style>
+
 <!-- Output author details if some exist. -->
 {% if author %}
+	<div class="circular-img">
+				<img src="{{ author.picture }}">
+	</div>
     <span>
         <!-- Personal Info. -->
-        Written by <a href="{{ author.web }}">{{ author.name }}</a>
+        Publicado por <a href="{{ author.web }}">{{ author.name }}</a>
     </span>
 {% endif %}
