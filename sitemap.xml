@@ -1,0 +1,30 @@
+---
+layout 
+---
+
+xml version=1.0 encoding=UTF-8
+urlset xmlnsxsi=httpwww.w3.org2001XMLSchema-instance xsischemaLocation=httpwww.sitemaps.orgschemassitemap0.9 httpwww.sitemaps.orgschemassitemap0.9sitemap.xsd xmlns=httpwww.sitemaps.orgschemassitemap0.9
+  {% for page in site.pages %}
+  {% if page.url contains '.xml' or page.url contains 'assets' %}{% else %}
+      url
+        loc{{ site.url }}{{ page.url }}loc
+        changefreqmonthlychangefreq
+        priority1.0priority
+       url
+  {% endif %}
+  {% endfor %}
+  {% for page in site.posts %}
+      url
+        loc{{ site.url }}{{ page.url  replace 'index.html', '' }}loc
+        changefreqmonthlychangefreq
+        priority1.0priority
+       url
+  {% endfor %}
+  {% for page in site.without-plugin %}
+      url
+        loc{{ site.url }}{{ page.url  replace 'index.html', '' }}loc
+        changefreqmonthlychangefreq
+        priority1.0priority
+       url
+  {% endfor %}
+urlset
