@@ -10,11 +10,11 @@ header-img: 'https://telegra.ph/file/793a9ff961b9e92a28c3f.png'
 title: 'Stranger Things temporada 4 incluirá una "gran revelación" sobre la historia de Hopper'
 ---
 
+![img](https://telegra.ph/file/793a9ff961b9e92a28c3f.png)
+
 Stranger Things temporada 4 incluirá una "gran revelación" sobre la historia de Hopper, confirma David Harbour .
 
   <!--break-->
-
-![img](https://telegra.ph/file/793a9ff961b9e92a28c3f.png) 
 
 La temporada 4 de Stranger Things promete adentrarse en el misterioso pasado de Hopper. Según dice la estrella David Harbour, pronto llegará una "gran revelación" sobre la historia del ex sheriff, que ha estado burbujeando desde la segunda temporada. 
 
