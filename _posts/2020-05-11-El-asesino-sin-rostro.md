@@ -17,6 +17,8 @@ Basado en el bestseller de Michelle McNamara 'El asesino sin rostro: Una mujer a
 
 De la ganadora del Emmy® y nominada al Oscar Liz Garbus
 
+  <!--break-->
+
 Puedes ver el teaser tráiler de la serie aquí: 
 
 {% include youtube.html id='-YHu5-Phfek' width='850' height='375' %}
