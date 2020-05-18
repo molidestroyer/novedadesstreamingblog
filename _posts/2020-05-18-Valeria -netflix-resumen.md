@@ -13,7 +13,7 @@ title: 'Valeria (Netflix): vía de escape para la Desescalada'
 
 
 
-Muchas veces necesitamos que la vida nos dé certezas. Y más en el momento actual, con un virus campando a sus anchas por todo el mundo y gran parte de la población saliendo de un confinamiento de varias semanas. Pues bien, Valeria, una de las últimas novedades de Netflix, podría ser la vía de escape ideal para evadiros de los decretos ley y las curvas de infectados por coronavirus durante un rato. La serie, basada en los *bestsellers* de Elisabet Benavent (@betacoqueta en Instagram), narra las peripecias sentimentales y los quebraderos de cabeza de Valeria, una joven *millennial* en busca de inspiración para escribir su primera novela y desencantada con su novio tras varios años de relación.
+Muchas veces necesitamos que la vida nos dé certezas. Y más en el momento actual, con un virus campando a sus anchas por todo el mundo y gran parte de la población saliendo de un confinamiento de varias semanas. Pues bien, Valeria, una de las últimas novedades de Netflix, os ofrece la seguridad y el sosiego que da el saberse algo de antemano. La serie, basada en los *bestsellers* de Elisabet Benavent (@betacoqueta en Instagram), narra las peripecias sentimentales y los quebraderos de cabeza de Valeria, una joven *millennial* en busca de inspiración para escribir su primera novela y desencantada con su novio tras varios años de relación. Se trata de la vía de escape ideal frente a los decretos ley y las curvas de infectados por coronavirus.
 
   <!--break-->
 
