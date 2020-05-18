@@ -23,7 +23,7 @@ Sí, no estamos ante un abanico de personajes de gran profundidad y oscuros mist
 
 Muchos verán en la trama de Valeria muchas similitudes con Girls (la serie de HBO ideada por Lena Dunham cuya primera temporada salió en 2012). En realidad, el parecido se reduce a seguir los pasos de un grupo de amigas en su transición de la juventud a la edad adulta. Girls tenía a ratos un tinte más trágico, derivado de la situación precaria en que quedaron los jóvenes tras el estallido de la crisis financiera de 2008. También comenzaban a intuirse los problemas a la hora de relacionarse con otros derivados de un mundo cada vez más digital y la dictadura de los cánones de belleza occidentales.
 
-{% include youtube.html id='-YHu5-Phfek' width='850' height='375' %}
+{% include youtube.html id='31PScT1samc' width='850' height='375' %}
 
 En Valeria, no hay lado oscuro. Las escenas tristes tampoco consiguen producirte ningún bajón anímico y, en algún caso, resultan un tanto ridículas (por ejemplo, la escena en que la protagonista se tumba en mitad del césped de un parque llorando desconsoladamente y, de repente, el día de sol se nubla y comienza a diluviar).
 
