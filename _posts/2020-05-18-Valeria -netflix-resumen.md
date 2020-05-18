@@ -1,6 +1,6 @@
 ---
 published: true
-author: Lorenzo_molina
+author: lorenzo_molina
 layout: post
 categories:
   - HBO
