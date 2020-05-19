@@ -6,10 +6,10 @@ categories:
   - Netflix
 subtitle: >-
   LLEGA A NETFLIX ‘BALL AND CHAIN’, PROTAGONIZADA POR DWAYNE JOHNSON Y EMILY BLUNT
-header-img: 'https://d2buxu5b5gpw2h.cloudfront.net/production/uploads/paperclips/22903103/large_aspect/IMG_956920200513-6379-1k3xy4t.jpg?response-content-type=image/jpg&response-content-disposition=inline&Expires=1589886925&Signature=AvU~HLhpBUVFbTHgB0D7uyaCxEm4iGHL~QmXzgMMmjCodD-F4r7FDgRf2aRtfL7npsPGiO8F0Vl8YqrAR7unazpBeEBB9-5LLLZKFmtpQfY2SpxdA5TedNA0m8qlghaWcKgajuzmUEp8CLB6K6FQDCwOjGwn4lDDWLL6XZGaKTJnDRkEoyINTpsApgoxDvuPsfyanEff-p8kGlWE-18NPvxZfwKja1i6a9~Wtd8qzeR3zh5-qU3aBiNNiDOb8xZsmCLkZMyzR3f-I-owNE8FZ6oo0742tLtZl46kgIfJzni-pai42O5CSpVHFsfJ5mCAJPcmaSmVSXIzxnVEKeefrw__&Key-Pair-Id=APKAJ5N444BY72EAUUJQ'
+header-img: 'https://chollolocurastorage.blob.core.windows.net/chollolocura/NovedadesStreaming/bluntyrock.jpg'
 title: 'LLEGA A NETFLIX ‘BALL AND CHAIN’, PROTAGONIZADA POR DWAYNE JOHNSON Y EMILY BLUNT'
 ---
-![img](https://d2buxu5b5gpw2h.cloudfront.net/production/uploads/paperclips/22903103/large_aspect/IMG_956920200513-6379-1k3xy4t.jpg?response-content-type=image/jpg&response-content-disposition=inline&Expires=1589886925&Signature=AvU~HLhpBUVFbTHgB0D7uyaCxEm4iGHL~QmXzgMMmjCodD-F4r7FDgRf2aRtfL7npsPGiO8F0Vl8YqrAR7unazpBeEBB9-5LLLZKFmtpQfY2SpxdA5TedNA0m8qlghaWcKgajuzmUEp8CLB6K6FQDCwOjGwn4lDDWLL6XZGaKTJnDRkEoyINTpsApgoxDvuPsfyanEff-p8kGlWE-18NPvxZfwKja1i6a9~Wtd8qzeR3zh5-qU3aBiNNiDOb8xZsmCLkZMyzR3f-I-owNE8FZ6oo0742tLtZl46kgIfJzni-pai42O5CSpVHFsfJ5mCAJPcmaSmVSXIzxnVEKeefrw__&Key-Pair-Id=APKAJ5N444BY72EAUUJQ)
+![img](https://chollolocurastorage.blob.core.windows.net/chollolocura/NovedadesStreaming/bluntyrock.jpg)
 
 
 
@@ -23,7 +23,7 @@ Dentro de poco los podemos ver juntos en la nueva película de Disney, ya que Jo
 
 - **Guionista**: Emily V. Gordon (*La gran enfermedad del amor, Little America*), nominada a un Óscar, adaptará la historia a partir del cómic homónimo de la década de 1990 de Scott Lobdell .
 
-![img](https://d2buxu5b5gpw2h.cloudfront.net/production/uploads/paperclips/22900792/large_aspect/image001_(2)20200512-6462-rycjp.jpg?response-content-type=image/jpg&response-content-disposition=inline&Expires=1589886921&Signature=HMa~X1FwsQtYSsySFFGg5vuaSlv1vSFnVgbnQVskXmJ-aI4w7BwkfWV9c6NBwRIcoFQvze4Q~nNEXp5jXOREDg4qSQ2wkvLHZb~BGaLAFo8hjNVT2R1z3dUz0fUXDIAlL0A1KWIez09yBD4yZBjIRVEm~NHo-IOZAGstHfP9Rd6mhpKtOHRwVikyODEGDsQLbapRRl1UahfM0n8yEvoXhzEGX-oO~5V6ebdgHiPFbBYSsxoLvM4bmI0m1kB5Q-1jp7kQ8XOg79p94w~T15hK6Y-xHOfUaP37W8vKdrEObzcC1JeTkICCC7AapSMzhScb-bgbuHgOThQfoRDcmZOwtA__&Key-Pair-Id=APKAJ5N444BY72EAUUJQ)
+![img](https://chollolocurastorage.blob.core.windows.net/chollolocura/NovedadesStreaming/guionista.jpg)
 
 - **Productores**: Dwayne Johnson, Dany Garcia y Hiram Garcia para Seven Bucks Productions, Kevin Misher para Misher Films, y Emily Blunt para Ledbury Productions.
 - **Productores** **ejecutivos**: Andy Berman para Misher Films y Scott Lobdell
