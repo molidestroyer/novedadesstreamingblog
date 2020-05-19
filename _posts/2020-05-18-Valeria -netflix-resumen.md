@@ -4,8 +4,7 @@ author: lorenzo_molina
 layout: post
 categories:
   - Netflix
-subtitle: >-
-  Valeria (Netflix): vía de escape para la Desescalada
+subtitle: 'Valeria (Netflix): vía de escape para la Desescalada'
 header-img: 'https://telegra.ph/file/20274f0ecc971a656c328.png'
 title: 'Valeria (Netflix): vía de escape para la Desescalada'
 ---
@@ -13,7 +12,7 @@ title: 'Valeria (Netflix): vía de escape para la Desescalada'
 
 
 
-Muchas veces necesitamos que la vida nos dé certezas. Y más en el momento actual, con un virus campando a sus anchas por todo el mundo y gran parte de la población saliendo de un confinamiento de varias semanas. Pues bien, Valeria, una de las últimas novedades de Netflix, os ofrece la seguridad y el sosiego que da el saberse algo de antemano. La serie, basada en los *bestsellers* de Elisabet Benavent (@betacoqueta en Instagram), narra las peripecias sentimentales y los quebraderos de cabeza de Valeria, una joven *millennial* en busca de inspiración para escribir su primera novela y desencantada con su marido tras varios años de relación. Se trata de la vía de escape ideal frente a los decretos ley y las curvas de infectados por coronavirus.
+Muchas veces necesitamos que la vida nos dé certezas. Y más en el momento actual, con un virus campando a sus anchas por todo el mundo y gran parte de la población saliendo de un confinamiento de varias semanas. Pues bien, Valeria, una de las últimas novedades de Netflix, os ofrece la seguridad y el sosiego que da el saberse algo de antemano. La serie, basada en los *bestsellers* de Elisabet Benavent (@betacoqueta en Instagram), narra las peripecias sentimentales y los quebraderos de cabeza de Valeria, una joven *millennial* en busca de inspiración para escribir su primera novela y desencantada con su marido tras varios años de matrimonio. Se trata de la vía de escape ideal frente a los decretos ley y las curvas de infectados por coronavirus.
 
   <!--break-->
 
@@ -28,7 +27,3 @@ Muchos verán en la trama de Valeria muchas similitudes con Girls (la serie de H
 En Valeria, no hay lado oscuro. Las escenas tristes tampoco consiguen producirte ningún bajón anímico y, en algún caso, resultan un tanto ridículas (por ejemplo, la escena en que la protagonista se tumba en mitad del césped de un parque llorando desconsoladamente y, de repente, el día de sol se nubla y comienza a diluviar).
 
 En resumidas cuentas: si tenéis ganas de ver algo nuevo en Netflix, pero viendo de lejos por dónde van los tiros y con altas dosis de optimismo y muchas escenas de coito para calmar vuestro desenfrenado apetito sexual *postconfinamiento,* esta es la serie que debéis ver. Si estáis en busca de algo que desafíe vuestro intelecto, ¡buscad otra cosa!
-
-
-
-
